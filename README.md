@@ -1,5 +1,7 @@
 Hellloooo, I’m @KaniCode1000
+
 I am having fun with Algorithms, Mathematics and AI. Also building some computer science foundations.
+
 Currently pursuing Bachelors of Technology (B.Tech) in Computer Science and Artifical Intelligence.
 
 <!---
